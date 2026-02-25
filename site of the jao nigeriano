@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>kiritochupaCU</title>
+
+<!--Estilo da página-->
+<style>
+    body {
+        background-color: #8b089a; /* Cor do Fundo */
+        font-family: arial, sans-serif;
+        text-align: center;
+        padding-top: 50px;
+    }
+    img {
+        width: 150px; /* Tamanho da Foto */
+        height: 150px; /* Altura para manter o círculo perfeito */
+        object-fit: cover; /* Não distorce a imagem */
+        border-radius: 50%; /* Foto redonda */
+        border: 4px solid white;
+    }
+    h1 {
+        color: white;
+    }
+    p {
+        color: white;
+    }
+    a {
+        display: inline-block; 
+        margin-top: 15px;
+        padding: 10px 20px;
+        background-color: white;
+        color: #2855f7;
+        text-decoration: none;
+        border-radius: 10px;
+        font-weight: bold;
+    }
+    a:hover { 
+        background-color: #ddd;
+    }
+</style>
+</head>
+<body>
+    
+    <img src="https://w.wallhaven.cc/full/ox/wallhaven-ox3jxp.jpg"
+     alt="">
+    
+    <h1>Kirito</h1>
+    <p>Meu primeiro site em HTML e CSS</p>
